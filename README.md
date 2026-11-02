@@ -25,10 +25,10 @@ What I really wanted was to make it friendly. Until then it was one of those app
 
 | Version | Date | What it was |
 |---|---|---|
-| [v1.0](https://github.com/passmedaoxy/optimizer-archive/releases/tag/v1.0) | Jan 5, 2026 | The first build. A Python console script: high priority, 1 ms timer and Ultimate Performance while a game runs. |
-| [v1.1](https://github.com/passmedaoxy/optimizer-archive/releases/tag/v1.1) | Jan 7, 2026 | No more hardcoded games: you add them in JSON files. Also a tray icon. |
-| [v1.4.2](https://github.com/passmedaoxy/optimizer-archive/releases/tag/v1.4.2) | Feb 3, 2026 | The last Python version, first called Optimizer: commands, setup wizard, presets, closing apps, crash recovery, run on startup. |
-| [v2.6.5](https://github.com/passmedaoxy/optimizer-archive/releases/tag/v2.6.5) | Mar 6, 2026 | The C++ rewrite, still a console app, with around 40 tweaks. A Debug build: needs Visual Studio's C++ tools to run. |
+| [v1.0](https://github.com/passmedaoxy/optimizer-archive) | Jan 5, 2026 | The first build. A Python console script: high priority, 1 ms timer and Ultimate Performance while a game runs. |
+| [v1.1](https://github.com/passmedaoxy/optimizer-archive) | Jan 7, 2026 | No more hardcoded games: you add them in JSON files. Also a tray icon. |
+| [v1.4.2](https://github.com/passmedaoxy/optimizer-archive) | Feb 3, 2026 | The last Python version, first called Optimizer: commands, setup wizard, presets, closing apps, crash recovery, run on startup. |
+| [v2.6.5](https://github.com/passmedaoxy/optimizer-archive) | Mar 6, 2026 | The C++ rewrite, still a console app, with around 40 tweaks. A Debug build: needs Visual Studio's C++ tools to run. |
 
 The 1.x versions are Python programs packed with PyInstaller, so antivirus often flags them by mistake.
 
